@@ -1,4 +1,4 @@
-# ICP_Project_Building_Workshop
+# Simple To-Do List Project
 
 Project Name: Simple To-Do
 
